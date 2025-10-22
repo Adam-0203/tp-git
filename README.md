@@ -1,2 +1,2 @@
 # Git & GitHub Lab
-Lab Objectives
+feature B: Lab Objectives
